@@ -1,0 +1,4 @@
+  // $servername = "sql311.infinityfree.com";
+    // $db_username = "if0_38190079"; 
+    // $db_password = "SyeWon2025";     
+    // $dbname = "if0_38190079_wonpager";
